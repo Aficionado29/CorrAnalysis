@@ -10,7 +10,7 @@ At the end I will list the worst judged players in the FIFA game.
 ### Opeartion guide:
 
 #### Input:
-the input data-sets are stored in the repository in the directory **data** and are named according to the convention
+The input data-sets are stored in the repository in the directory **data** and are named according to the convention
  - data for Premier League has prefix (league shortcut) PL
  - data for La Lila has prefix LL
  - data for Serie A has prefix SA
