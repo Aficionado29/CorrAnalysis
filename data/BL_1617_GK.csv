@@ -1,0 +1,34 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+1,René Adler\Rene-Adler,de GER,GK,Hamburger SV,31,1985,19,19,1710,19.0,38,2.00,87,49,59.8,5,4,10,5,26.3,6,3,1,2,25.0,Matches
+2,Oliver Baumann\Oliver-Baumann,de GER,GK,Hoffenheim,26,1990,34,34,3060,34.0,37,1.09,150,113,76.0,16,14,4,12,35.3,3,1,1,1,50.0,Matches
+3,Diego Benaglio\Diego-Benaglio,ch SUI,GK,Wolfsburg,32,1983,14,14,1260,14.0,22,1.57,63,41,68.3,5,1,8,3,21.4,4,2,1,1,33.3,Matches
+4,Roman Bürki\Roman-Burki,ch SUI,GK,Dortmund,25,1990,27,27,2430,27.0,29,1.07,97,68,72.2,16,6,5,9,33.3,2,2,0,0,0.0,Matches
+5,Koen Casteels\Koen-Casteels,be BEL,GK,Wolfsburg,24,1992,20,20,1800,20.0,30,1.50,92,62,67.4,5,6,9,8,40.0,1,0,0,1,,Matches
+6,Fabio Coltorti\Fabio-Coltorti,ch SUI,GK,RB Leipzig,35,1980,1,1,90,1.0,0,0.00,2,2,100.0,1,0,0,1,100.0,0,0,0,0,,Matches
+7,Jaroslav Drobný\Jaroslav-Drobny,cz CZE,GK,Werder Bremen,36,1979,10,10,849,9.4,15,1.59,45,30,71.1,3,4,2,1,10.0,2,2,0,0,0.0,Matches
+8,Michael Esser\Michael-Esser,de GER,GK,Darmstadt 98,28,1987,28,28,2484,27.6,50,1.81,144,94,68.8,6,3,19,3,10.7,7,5,1,1,16.7,Matches
+9,Ralf Fährmann\Ralf-Fahrmann,de GER,GK,Schalke 04,27,1988,34,34,3060,34.0,40,1.18,118,78,71.2,11,10,13,8,23.5,10,6,4,0,40.0,Matches
+10,Péter Gulácsi\Peter-Gulacsi,hu HUN,GK,RB Leipzig,26,1990,33,33,2970,33.0,39,1.18,102,63,64.7,19,7,7,9,27.3,5,3,2,0,40.0,Matches
+11,Martin Hansen\Martin-Hansen,dk DEN,GK,Ingolstadt 04,26,1990,23,23,2037,22.6,34,1.50,98,64,70.4,8,5,10,3,13.0,6,5,1,0,16.7,Matches
+12,Daniel Heuer Fernandes\Daniel-Heuer-Fernandes,pt POR,GK,Darmstadt 98,23,1992,7,6,576,6.4,13,2.03,43,30,72.1,1,1,4,0,0.0,1,1,0,0,0.0,Matches
+13,Marwin Hitz\Marwin-Hitz,ch SUI,GK,Augsburg,28,1987,32,32,2880,32.0,50,1.56,162,112,71.6,9,9,14,7,21.9,5,4,0,1,0.0,Matches
+14,Timo Horn\Timo-Horn,de GER,GK,Köln,23,1993,20,20,1800,20.0,24,1.20,91,67,76.9,9,6,5,6,30.0,3,3,0,0,0.0,Matches
+15,Lukáš Hrádecký\Lukas-Hradecky,fi FIN,GK,Eint Frankfurt,26,1989,33,33,2883,32.0,40,1.25,111,71,66.7,10,9,13,10,30.3,4,3,0,1,0.0,Matches
+16,Jannik Huth\Jannik-Huth,de GER,GK,Mainz 05,22,1994,7,7,630,7.0,9,1.29,26,17,65.4,2,2,3,2,28.6,0,0,0,0,,Matches
+17,Rune Jarstein\Rune-Jarstein,no NOR,GK,Hertha BSC,31,1984,34,34,3060,34.0,47,1.38,150,103,71.3,15,4,15,11,32.4,5,4,1,0,20.0,Matches
+18,Thomas Kessler\Thomas-Kessler,de GER,GK,Köln,30,1986,13,13,1170,13.0,18,1.38,64,46,73.4,3,6,4,3,23.1,1,1,0,0,0.0,Matches
+19,Bernd Leno\Bernd-Leno,de GER,GK,Leverkusen,24,1992,34,34,3060,34.0,55,1.62,160,105,67.5,11,8,15,6,17.6,3,3,0,0,0.0,Matches
+20,Heinz Lindner\Heinz-Lindner,at AUT,GK,Eint Frankfurt,26,1990,2,1,175,1.9,3,1.54,9,6,66.7,1,0,1,1,100.0,0,0,0,0,,Matches
+21,Jonas Lössl\Jonas-Lossl,dk DEN,GK,Mainz 05,27,1989,27,27,2430,27.0,46,1.70,134,88,67.9,8,5,14,5,18.5,4,3,1,0,25.0,Matches
+22,Andreas Luthe\Andreas-Luthe,de GER,GK,Augsburg,29,1987,2,2,180,2.0,1,0.50,14,13,92.9,0,2,0,1,50.0,0,0,0,0,,Matches
+23,Christian Mathenia\Christian-Mathenia,de GER,GK,Hamburger SV,24,1992,14,14,1260,14.0,19,1.36,58,39,70.7,5,4,5,3,21.4,2,2,0,0,0.0,Matches
+24,Tom Mickel\Tom-Mickel,de GER,GK,Hamburger SV,27,1989,1,1,90,1.0,4,4.00,9,5,55.6,0,0,1,0,0.0,0,0,0,0,,Matches
+25,Sven Müller\Sven-Muller,de GER,GK,Köln,20,1996,1,1,90,1.0,0,0.00,4,4,100.0,0,1,0,1,100.0,0,0,0,0,,Matches
+26,Manuel Neuer\Manuel-Neuer,de GER,GK,Bayern Munich,30,1986,26,26,2340,26.0,13,0.50,67,54,80.6,19,6,1,14,53.8,0,0,0,0,,Matches
+27,Ørjan Nyland\Orjan-Nyland,no NOR,GK,Ingolstadt 04,25,1990,12,11,1023,11.4,23,2.02,62,39,66.1,0,3,8,0,0.0,2,2,0,0,0.0,Matches
+28,Alexander Schwolow\Alexander-Schwolow,de GER,GK,Freiburg,24,1992,34,34,3060,34.0,60,1.76,165,105,66.1,14,6,14,6,17.6,6,4,2,0,33.3,Matches
+29,Yann Sommer\Yann-Sommer,ch SUI,GK,M'Gladbach,27,1988,34,34,3060,34.0,49,1.44,146,97,69.2,12,9,13,10,29.4,5,4,0,1,0.0,Matches
+30,Tom Starke\Tom-Starke,de GER,GK,Bayern Munich,35,1981,3,3,270,3.0,5,1.67,17,12,76.5,3,0,0,1,33.3,2,1,1,0,50.0,Matches
+31,Sven Ulreich\Sven-Ulreich,de GER,GK,Bayern Munich,27,1988,5,5,450,5.0,4,0.80,16,12,81.3,3,1,1,2,40.0,1,1,0,0,0.0,Matches
+32,Roman Weidenfeller\Roman-Weidenfeller,de GER,GK,Dortmund,35,1980,7,7,630,7.0,11,1.57,28,17,60.7,2,4,1,0,0.0,0,0,0,0,,Matches
+33,Felix Wiedwald\Felix-Wiedwald,de GER,GK,Werder Bremen,26,1990,25,24,2209,24.5,49,2.00,145,96,70.3,10,2,13,5,20.8,8,6,2,0,25.0,Matches

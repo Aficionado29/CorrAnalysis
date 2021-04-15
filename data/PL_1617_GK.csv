@@ -1,0 +1,43 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+1,Adrián\Adrian,es ESP,GK,West Ham,29,1987,16,16,1440,16.0,25,1.56,78,53,70.5,5,4,7,6,37.5,3,2,0,1,0.0,Matches
+2,Ryan Allsop\Ryan-Allsop,eng ENG,GK,Bournemouth,24,1992,1,1,90,1.0,1,1.00,5,4,80.0,0,1,0,0,0.0,0,0,0,0,,Matches
+3,Asmir Begović\Asmir-Begovic,ba BIH,GK,Chelsea,29,1987,2,2,180,2.0,5,2.50,6,1,16.7,1,0,1,0,0.0,0,0,0,0,,Matches
+4,Artur Boruc\Artur-Boruc,pl POL,GK,Bournemouth,36,1980,35,35,3150,35.0,63,1.80,176,113,65.3,11,9,15,9,25.7,4,2,2,0,50.0,Matches
+5,Claudio Bravo\Claudio-Bravo,cl CHI,GK,Manchester City,33,1983,22,22,1968,21.9,26,1.19,60,34,56.7,12,5,5,5,22.7,1,0,1,0,100.0,Matches
+6,Jack Butland\Jack-Butland,eng ENG,GK,Stoke City,23,1993,5,5,450,5.0,8,1.60,24,16,66.7,1,2,2,2,40.0,0,0,0,0,,Matches
+7,Willy Caballero\Willy-Caballero,ar ARG,GK,Manchester City,34,1981,17,16,1452,16.1,13,0.81,45,32,75.6,11,4,1,6,37.5,4,2,0,2,0.0,Matches
+8,Joel Castro Pereira\Joel-Castro-Pereira,pt POR,GK,Manchester Utd,20,1996,1,1,90,1.0,0,0.00,3,3,100.0,1,0,0,1,100.0,0,0,0,0,,Matches
+9,Petr Čech\Petr-Cech,cz CZE,GK,Arsenal,34,1982,35,35,3097,34.4,37,1.08,150,113,81.3,22,5,7,12,34.3,9,9,0,0,0.0,Matches
+10,Thibaut Courtois\Thibaut-Courtois,be BEL,GK,Chelsea,24,1992,36,36,3240,36.0,28,0.78,99,71,73.7,29,3,4,16,44.4,2,2,0,0,0.0,Matches
+11,Łukasz Fabiański\Lukasz-Fabianski,pl POL,GK,Swansea City,31,1985,37,37,3330,37.0,69,1.86,174,105,63.8,11,5,21,8,21.6,8,6,1,1,14.3,Matches
+12,Adam Federici\Adam-Federici,au AUS,GK,Bournemouth,31,1985,2,2,180,2.0,3,1.50,8,5,62.5,1,0,1,1,50.0,1,0,0,1,,Matches
+13,Fraser Forster\Fraser-Forster,eng ENG,GK,Southampton,28,1988,38,38,3420,38.0,48,1.26,130,82,67.7,12,10,16,14,36.8,9,6,1,2,14.3,Matches
+14,Ben Foster\Ben-Foster,eng ENG,GK,West Brom,33,1983,38,38,3420,38.0,51,1.34,160,109,70.0,12,9,17,6,15.8,3,3,0,0,0.0,Matches
+15,David de Gea\David-de-Gea,es ESP,GK,Manchester Utd,25,1990,35,35,3150,35.0,29,0.83,103,74,75.7,16,14,5,14,40.0,4,4,0,0,0.0,Matches
+16,Shay Given\Shay-Given,ie IRL,GK,Stoke City,40,1976,5,5,450,5.0,14,2.80,33,19,60.6,0,1,4,0,0.0,2,1,1,0,50.0,Matches
+17,Heurelho Gomes\Heurelho-Gomes,br BRA,GK,Watford,35,1981,38,38,3337,37.1,64,1.73,177,113,65.5,11,7,19,6,15.8,4,3,1,0,25.0,Matches
+18,Lee Grant\Lee-Grant,eng ENG,GK,Stoke City,33,1983,28,28,2520,28.0,34,1.21,123,89,72.4,10,8,10,9,32.1,0,0,0,0,,Matches
+19,Brad Guzan\Brad-Guzan,us USA,GK,Middlesbrough,31,1984,10,10,900,10.0,17,1.70,53,36,69.8,2,3,5,3,30.0,2,1,0,1,0.0,Matches
+20,Tom Heaton\Tom-Heaton,eng ENG,GK,Burnley,30,1986,35,35,3150,35.0,48,1.37,189,141,76.7,11,7,17,10,28.6,5,4,1,0,20.0,Matches
+21,Wayne Hennessey\Wayne-Hennessey,wal WAL,GK,Crystal Palace,29,1987,29,29,2610,29.0,46,1.59,133,87,66.9,9,3,17,7,24.1,2,2,0,0,0.0,Matches
+22,Eldin Jakupović\Eldin-Jakupovic,ch SUI,GK,Hull City,31,1984,22,22,1980,22.0,36,1.64,107,71,70.1,8,4,10,5,22.7,7,4,2,1,33.3,Matches
+23,Loris Karius\Loris-Karius,de GER,GK,Liverpool,23,1993,10,10,900,10.0,12,1.20,32,20,65.6,6,3,1,3,30.0,1,1,0,0,0.0,Matches
+24,Hugo Lloris\Hugo-Lloris,fr FRA,GK,Tottenham,29,1986,34,34,3004,33.4,24,0.72,101,77,77.2,24,5,4,15,44.1,1,1,0,0,0.0,Matches
+25,Steve Mandanda\Steve-Mandanda,fr FRA,GK,Crystal Palace,31,1985,9,9,810,9.0,17,1.89,43,26,60.5,3,2,4,0,0.0,0,0,0,0,,Matches
+26,Vito Mannone\Vito-Mannone,it ITA,GK,Sunderland,28,1988,9,9,810,9.0,19,2.11,59,40,71.2,1,2,6,2,22.2,2,2,0,0,0.0,Matches
+27,David Marshall\David-Marshall,sco SCO,GK,Hull City,31,1985,16,16,1440,16.0,44,2.75,107,63,65.4,1,3,12,0,0.0,7,7,0,0,0.0,Matches
+28,Emiliano Martínez\Emiliano-Martinez,ar ARG,GK,Arsenal,23,1992,2,2,180,2.0,3,1.50,8,5,75.0,1,0,1,1,50.0,1,1,0,0,0.0,Matches
+29,Simon Mignolet\Simon-Mignolet,be BEL,GK,Liverpool,28,1988,28,28,2520,28.0,30,1.07,82,52,65.9,16,7,5,9,32.1,4,2,2,0,50.0,Matches
+30,Kristoffer Nordfeldt\Kristoffer-Nordfeldt,se SWE,GK,Swansea City,27,1989,1,1,90,1.0,1,1.00,5,4,80.0,1,0,0,0,0.0,0,0,0,0,,Matches
+31,David Ospina\David-Ospina,co COL,GK,Arsenal,27,1988,2,1,143,1.6,4,2.52,9,5,55.6,0,1,1,0,0.0,0,0,0,0,,Matches
+32,Costel Pantilimon\Costel-Pantilimon,ro ROU,GK,Watford,29,1987,2,0,83,0.9,4,4.34,10,6,60.0,0,0,1,0,,0,0,0,0,,Matches
+33,Jordan Pickford\Jordan-Pickford,eng ENG,GK,Sunderland,22,1994,29,29,2610,29.0,50,1.72,189,139,74.6,5,4,20,4,13.8,2,2,0,0,0.0,Matches
+34,Darren Randolph\Darren-Randolph,ie IRL,GK,West Ham,29,1987,22,22,1980,22.0,39,1.77,104,65,65.4,7,5,10,4,18.2,5,3,1,1,25.0,Matches
+35,Paul Robinson\Paul-Robinson,eng ENG,GK,Burnley,36,1979,3,3,270,3.0,7,2.33,19,12,63.2,0,0,3,0,0.0,0,0,0,0,,Matches
+36,Joel Robles\Joel-Robles,es ESP,GK,Everton,26,1990,20,19,1737,19.3,20,1.04,80,60,77.5,12,4,3,10,52.6,2,2,0,0,0.0,Matches
+37,Sergio Romero\Sergio-Romero,ar ARG,GK,Manchester Utd,29,1987,2,2,180,2.0,0,0.00,10,10,100.0,1,1,0,2,100.0,1,0,1,0,100.0,Matches
+38,Kasper Schmeichel\Kasper-Schmeichel,dk DEN,GK,Leicester City,29,1986,30,30,2666,29.6,47,1.59,157,110,72.0,10,7,13,8,26.7,3,3,0,0,0.0,Matches
+39,Maarten Stekelenburg\Maarten-Stekelenburg,nl NED,GK,Everton,33,1982,19,19,1683,18.7,24,1.28,68,44,66.2,5,6,8,3,15.8,3,1,1,1,50.0,Matches
+40,Víctor Valdés\Victor-Valdes,es ESP,GK,Middlesbrough,34,1982,28,28,2520,28.0,36,1.29,118,82,72.0,3,10,15,8,28.6,3,3,0,0,0.0,Matches
+41,Michel Vorm\Michel-Vorm,nl NED,GK,Tottenham,32,1983,5,4,416,4.6,2,0.43,9,7,88.9,2,3,0,2,50.0,1,1,0,0,0.0,Matches
+42,Ron-Robert Zieler\Ron-Robert-Zieler,de GER,GK,Leicester City,27,1989,9,8,754,8.4,16,1.91,33,17,51.5,2,1,5,1,12.5,0,0,0,0,,Matches
