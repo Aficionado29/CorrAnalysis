@@ -5,3 +5,9 @@ In this project I will collect the statistical data from the 5 biggest Europoean
 Then, I will calculate the correspondence of the real performance of the player on the field with the FIFA value and overall rating of the player. The results could be used to gauge to which extend the developers of the game take into account the players' real performance or the fame of the players is more important when determining the value and rating for the game. I will use my own scoring weights for various statistics.
 
 At the end I will list the worst judged players in the FIFA game.
+
+
+### Acknowledgements:
+The real-world data were collected by team from the webpage https://fbref.com/en/comps/ and provided for the download and reuse.
+
+The FIFA data-set was created by Kevin Heavey and contributors and is available also here on GitHub in the repo https://github.com/kevinheavey/fifa18-even-more-player-data/tree/master/data/final/current.
