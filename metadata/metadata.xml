@@ -6,12 +6,22 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:title>Analysis of correspondence between real-world football players' statistics and FIFA players' values and rating</dc:title>
 <dc:creator>Ivan Lichner (https://orcid.org/0000-0001-8473-6573)</dc:creator>
 <dc:subject>Correspondence analysis</dc:subject>
+<dc:subject>Histogram</dc:subject>
+<dc:subject>Distribution</dc:subject>
+<dc:subject>FIFA</dc:subject>
+<dc:subject>Football</dc:subject>
 <dc:description>In this project I will collect the statistical data from the 5 biggest European football league - namely Premier League, La Liga, Serie A, Bundesliga and Ligue 1 as well as the data from the game FIFA. The statistics will be for the season2016/2017 and the equivalent FIFA 18. I will then calculate the correspondence of the real performance of the player on the field with the FIFA value and overall rating of the player. The results could be used to gauge to which extent the developers of the game take into account the players' real performance or the fame of the players is more important when determining the value and rating for the game. I will use my own scoring weights for various statistics. At the end I will list the worst judged players in the FIFA game.</dc:description>
 <dc:date>2021-04-15</dc:date>
 <dc:type>Software</dc:type>
 <dc:format>ipynb</dc:format>
+<dc:format>CSV</dc:format>
 <dc:identifier>https://doi.org/10.5281/zenodo.4694849</dc:identifier>
 <dc:source>Fifa 18 More Complete Player Dataset from https://github.com/kevinheavey/fifa18-even-more-player-data</dc:source>
+<dc:source>2016-2017 Premier League Stats from https://fbref.com/en/comps/9/1526/stats/2016-2017-Premier-League-Stats</dc:source>
+<dc:source>2016-2017 La Liga Stats from https://fbref.com/en/comps/12/1547/2016-2017-La-Liga-Stats</dc:source>
+<dc:source>2016-2017 Serie A Stats from https://fbref.com/en/comps/11/1535/2016-2017-Serie-A-Stats</dc:source>
+<dc:source>2016-2017 Bundesliga Stats from https://fbref.com/en/comps/20/1529/2016-2017-Bundesliga-Stats</dc:source>
+<dc:source>2016-2017 Ligue 1 Stats from https://fbref.com/en/comps/13/1527/2016-2017-Ligue-1-Stats</dc:source>
 <dc:language>en-US</dc:language>
 <dc:coverage>2016-2017</dc:coverage>
 <dc:rights>MIT License</dc:rights>
